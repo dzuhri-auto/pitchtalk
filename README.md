@@ -36,6 +36,7 @@ All the configurations can be set in the .env file.
 | ----------------------- | ----------------------------------------------- | ------------ |
 | LICENSE_KEY             | LICENSE KEY                                     |              |
 | REF_ID                  | Referral code                                   | My reff code |
+| AUTO_UPGRADE_CHARACTER  | Auto upgrade character                          | False        |
 | USE_RANDOM_DELAY_IN_RUN | Activate delay before start the bot             | True         |
 | RANDOM_DELAY_IN_RUN     | Randomize delay in seconds before start the bot | [5, 30]      |
 | USE_PROXY_FROM_FILE     | For using proxy                                 | False        |
