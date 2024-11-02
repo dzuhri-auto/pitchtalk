@@ -13,6 +13,7 @@ class Settings:
     RANDOM_DELAY_IN_RUN = json.loads(os.getenv("RANDOM_DELAY_IN_RUN", "[3, 15]"))
 
     REF_ID = os.getenv("REF_ID")
+    AUTO_UPGRADE_CHARACTER =  os.getenv("AUTO_UPGRADE_CHARACTER", "False")
 
     USE_PROXY_FROM_FILE = os.getenv("USE_PROXY_FROM_FILE", "False")
 

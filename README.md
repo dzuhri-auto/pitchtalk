@@ -11,6 +11,7 @@ PITCHTALK Telegram Mini App Bot (only using Query ID)
 - Auto Farming
 - Auto Claim Friend Ref
 - Auto Clear Mission / Tasks
+- Auto Upgrade Character
 
 ## Supported Operating Systems
 
