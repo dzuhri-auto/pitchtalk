@@ -42,3 +42,7 @@ class UnexpectedResponseFormatException(BaseException):
 
 class JSONDecodeErrorException(BaseException):
     pass
+
+
+class ServerApiChangedException(BaseException):
+    pass
